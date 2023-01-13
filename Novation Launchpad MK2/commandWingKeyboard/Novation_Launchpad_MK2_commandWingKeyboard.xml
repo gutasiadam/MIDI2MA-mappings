@@ -1,0 +1,239 @@
+﻿<!-- 
+	Novation Lauchpad MK2 - command Wing Keyboard
+	Made by: Adam Gutasi
+	Layout can be found in the corresponding Layout.pdf file.
+	!!! NOTE THAT THE MACRO REMOVES ALL REMOTES IN RANGE 2.1 - 2.72 !!!
+	Date created: 2023.01.12.
+ -->
+<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2023-01-12T13:54:45" showfile="blank" />
+	<Macro index="0" name="Lanchpad2onPcKeyboard">
+		<Macroline index="0">
+			<text>Delete Remote 2.1 Thru 2.72</text>
+			<info>Deletes old Remotes created</info>
+		</Macroline>
+		<Macroline index="1">
+			<text>Store Remote 2.1 Thru 2.72</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Assign Remote 2.1 /name=&quot;Launchpad - Fix&quot; /note=81 /type=hardkey /enabled=on /keycode=&quot;FIX&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Assign Remote 2.2 /name=&quot;Launchpad - Select&quot; /note=82 /type=hardkey /enabled=on /keycode=&quot;SELECT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Assign Remote 2.3 /name=&quot;Launchpad - Off&quot; /note=83 /type=hardkey /enabled=on /keycode=&quot;OFF&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>Assign Remote 2.4 /name=&quot;Launchpad - View&quot; /note=84 /type=hardkey /enabled=on /keycode=&quot;VIEW&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Assign Remote 2.5 /name=&quot;Launchpad - Effect&quot; /note=85 /type=hardkey /enabled=on /keycode=&quot;EFFECT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Assign Remote 2.6 /name=&quot;Launchpad - Goto&quot; /note=86 /type=hardkey /enabled=on /keycode=&quot;GOTO&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Assign Remote 2.7 /name=&quot;Launchpad - Encoder&quot; /note=87 /type=hardkey /enabled=on /keycode=&quot;ENCODER&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>Assign Remote 2.8 /name=&quot;Launchpad - Del&quot; /note=88 /type=hardkey /enabled=on /keycode=&quot;DELETE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>Assign Remote 2.9 /name=&quot;Launchpad - Backup&quot; /note=89 /type=hardkey /enabled=on /keycode=&quot;BACKUP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>Assign Remote 2.10 /name=&quot;Launchpad - TEMP&quot; /note=71 /type=hardkey /enabled=on /keycode=&quot;TEMP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>Assign Remote 2.11 /name=&quot;Launchpad - TOP&quot; /note=72 /type=hardkey /enabled=on /keycode=&quot;TOP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>Assign Remote 2.12 /name=&quot;Launchpad - ON&quot; /note=73 /type=hardkey /enabled=on /keycode=&quot;ON&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>Assign Remote 2.13 /name=&quot;Launchpad - PAGE&quot; /note=74 /type=hardkey /enabled=on /keycode=&quot;PAGE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>Assign Remote 2.14 /name=&quot;Launchpad - MACRO&quot; /note=75 /type=hardkey /enabled=on /keycode=&quot;MACRO&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>Assign Remote 2.15 /name=&quot;Launchpad - PRESET&quot; /note=76 /type=hardkey /enabled=on /keycode=&quot;PRESET&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>Assign Remote 2.16 /name=&quot;Launchpad - N/A&quot; /note=77 /type=hardkey /enabled=off /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="18">
+			<text>Assign Remote 2.17 /name=&quot;Launchpad - COPY&quot; /note=78 /type=hardkey /enabled=on /keycode=&quot;COPY&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="19">
+			<text>Assign Remote 2.18 /name=&quot;Launchpad - SETUP&quot; /note=79 /type=hardkey /enabled=on /keycode=&quot;SETUP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="20">
+			<text>Assign Remote 2.19 /name=&quot;Launchpad - GOM_FAST&quot; /note=61 /type=hardkey /enabled=on /keycode=&quot;GOM_FAST&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="21">
+			<text>Assign Remote 2.20 /name=&quot;Launchpad - LEARN&quot; /note=62 /type=hardkey /enabled=on /keycode=&quot;LEARN&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="22">
+			<text>Assign Remote 2.21 /name=&quot;Launchpad - GOP_FAST&quot; /note=63 /type=hardkey /enabled=on /keycode=&quot;GOP_FAST&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="23">
+			<text>Assign Remote 2.22 /name=&quot;Launchpad - SEQU&quot; /note=64 /type=hardkey /enabled=on /keycode=&quot;SEQU&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="24">
+			<text>Assign Remote 2.23 /name=&quot;Launchpad - CUE&quot; /note=65 /type=hardkey /enabled=on /keycode=&quot;CUE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="25">
+			<text>Assign Remote 2.24 /name=&quot;Launchpad - EXECUTOR&quot; /note=66 /type=hardkey /enabled=on /keycode=&quot;EXECUTOR&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="26">
+			<text>Assign Remote 2.25 /name=&quot;Launchpad - N/A&quot; /note=67 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="27">
+			<text>Assign Remote 2.26 /name=&quot;Launchpad - FIX&quot; /note=68 /type=hardkey /enabled=on /keycode=&quot;FIX&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="28">
+			<text>Assign Remote 2.27 /name=&quot;Launchpad - N/A&quot; /note=69 /type=hardkey /enabled=off /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="29">
+			<text>Assign Remote 2.28 /name=&quot;Launchpad - GO_MINUS&quot; /note=51 /type=hardkey /enabled=on /keycode=&quot;GO_MINUS&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="30">
+			<text>Assign Remote 2.29 /name=&quot;Launchpad - PAUSE&quot; /note=52 /type=hardkey /enabled=on /keycode=&quot;PAUSE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="31">
+			<text>Assign Remote 2.30 /name=&quot;Launchpad - GO_PLUS&quot; /note=53 /type=hardkey /enabled=on /keycode=&quot;GO_PLUS&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="32">
+			<text>Assign Remote 2.31 /name=&quot;Launchpad - CHANNEL&quot; /note=54 /type=hardkey /enabled=on /keycode=&quot;CHANNEL&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="33">
+			<text>Assign Remote 2.32 /name=&quot;Launchpad - FIXTURE&quot; /note=55 /type=hardkey /enabled=on /keycode=&quot;FIXTURE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="34">
+			<text>Assign Remote 2.33 /name=&quot;Launchpad - GROUP&quot; /note=56 /type=hardkey /enabled=on /keycode=&quot;GROUP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="35">
+			<text>Assign Remote 2.34 /name=&quot;Launchpad - N/A&quot; /note=57 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="36">
+			<text>Assign Remote 2.35 /name=&quot;Launchpad - FULL&quot; /note=58 /type=hardkey /enabled=on /keycode=&quot;FULL&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="37">
+			<text>Assign Remote 2.36 /name=&quot;Launchpad - N/A&quot; /note=59 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="38">
+			<text>Assign Remote 2.37 /name=&quot;Launchpad - Time&quot; /note=47 /type=hardkey /enabled=on /keycode=&quot;TIME&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="39">
+			<text>Assign Remote 2.38 /name=&quot;Launchpad - Esc&quot; /note=48 /type=hardkey /enabled=on /keycode=&quot;ESC&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="40">
+			<text>Assign Remote 2.39 /name=&quot;Launchpad - 7&quot; /note=41 /type=hardkey /enabled=on /keycode=&quot;7&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="41">
+			<text>Assign Remote 2.40 /name=&quot;Launchpad - 8&quot; /note=42 /type=hardkey /enabled=on /keycode=&quot;8&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="42">
+			<text>Assign Remote 2.41 /name=&quot;Launchpad - 9&quot; /note=43 /type=hardkey /enabled=on /keycode=&quot;9&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="43">
+			<text>Assign Remote 2.42 /name=&quot;Launchpad - PLUS&quot; /note=44 /type=hardkey /enabled=on /keycode=&quot;PLUS&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="44">
+			<text>Assign Remote 2.43 /name=&quot;Launchpad - SET&quot; /note=45 /type=hardkey /enabled=on /keycode=&quot;SET&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="45">
+			<text>Assign Remote 2.44 /name=&quot;Launchpad - HIGH&quot; /note=46 /type=hardkey /enabled=on /keycode=&quot;HIGH&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="46">
+			<text>Assign Remote 2.45 /name=&quot;Launchpad - N/A&quot; /note=49 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="47">
+			<text>Assign Remote 2.46 /name=&quot;Launchpad - EDIT&quot; /note=31 /type=hardkey /enabled=on /keycode=&quot;EDIT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="48">
+			<text>Assign Remote 2.47 /name=&quot;Launchpad - OOPS&quot; /note=32 /type=hardkey /enabled=on /keycode=&quot;OOPS&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="49">
+			<text>Assign Remote 2.48 /name=&quot;Launchpad - 4&quot; /note=33 /type=hardkey /enabled=on /keycode=&quot;4&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="50">
+			<text>Assign Remote 2.49 /name=&quot;Launchpad - 5&quot; /note=34 /type=hardkey /enabled=on /keycode=&quot;5&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="51">
+			<text>Assign Remote 2.50 /name=&quot;Launchpad - 6&quot; /note=35 /type=hardkey /enabled=on /keycode=&quot;6&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="52">
+			<text>Assign Remote 2.51 /name=&quot;Launchpad - THRU&quot; /note=36 /type=hardkey /enabled=on /keycode=&quot;THRU&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="53">
+			<text>Assign Remote 2.52 /name=&quot;Launchpad - UP&quot; /note=37 /type=hardkey /enabled=on /keycode=&quot;UP&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="54">
+			<text>Assign Remote 2.53 /name=&quot;Launchpad - SOLO&quot; /note=38 /type=hardkey /enabled=on /keycode=&quot;SOLO&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="55">
+			<text>Assign Remote 2.54 /name=&quot;Launchpad - N/A&quot; /note=39 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="56">
+			<text>Assign Remote 2.55 /name=&quot;Launchpad - UPODATE&quot; /note=21 /type=hardkey /enabled=on /keycode=&quot;UPODATE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="57">
+			<text>Assign Remote 2.56 /name=&quot;Launchpad - CLEAR&quot; /note=22 /type=hardkey /enabled=on /keycode=&quot;CLEAR&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="58">
+			<text>Assign Remote 2.57 /name=&quot;Launchpad - 1&quot; /note=23 /type=hardkey /enabled=on /keycode=&quot;1&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="59">
+			<text>Assign Remote 2.58 /name=&quot;Launchpad - 2&quot; /note=24 /type=hardkey /enabled=on /keycode=&quot;2&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="60">
+			<text>Assign Remote 2.59 /name=&quot;Launchpad - 3&quot; /note=25 /type=hardkey /enabled=on /keycode=&quot;3&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="61">
+			<text>Assign Remote 2.60 /name=&quot;Launchpad - MINUS&quot; /note=26 /type=hardkey /enabled=on /keycode=&quot;MINUS&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="62">
+			<text>Assign Remote 2.61 /name=&quot;Launchpad - DOWN&quot; /note=27 /type=hardkey /enabled=on /keycode=&quot;DOWN&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="63">
+			<text>Assign Remote 2.62 /name=&quot;Launchpad - NEXT&quot; /note=28 /type=hardkey /enabled=on /keycode=&quot;NEXT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="64">
+			<text>Assign Remote 2.63 /name=&quot;Launchpad - N/A&quot; /note=29 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="65">
+			<text>Assign Remote 2.64 /name=&quot;Launchpad - STORE&quot; /note=11 /type=hardkey /enabled=on /keycode=&quot;STORE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="66">
+			<text>Assign Remote 2.65 /name=&quot;Launchpad - MA&quot; /note=12 /type=hardkey /enabled=on /keycode=&quot;MA&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="67">
+			<text>Assign Remote 2.66 /name=&quot;Launchpad - 0&quot; /note=13 /type=hardkey /enabled=on /keycode=&quot;0&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="68">
+			<text>Assign Remote 2.67 /name=&quot;Launchpad - DOT&quot; /note=14 /type=hardkey /enabled=on /keycode=&quot;DOT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="69">
+			<text>Assign Remote 2.68 /name=&quot;Launchpad - IF&quot; /note=15 /type=hardkey /enabled=on /keycode=&quot;IF&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="70">
+			<text>Assign Remote 2.69 /name=&quot;Launchpad - AT&quot; /note=16 /type=hardkey /enabled=on /keycode=&quot;AT&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="71">
+			<text>Assign Remote 2.70 /name=&quot;Launchpad - PLEASE&quot; /note=17 /type=hardkey /enabled=on /keycode=&quot;PLEASE&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="72">
+			<text>Assign Remote 2.71 /name=&quot;Launchpad - PREV&quot; /note=18 /type=hardkey /enabled=on /keycode=&quot;PREV&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="73">
+			<text>Assign Remote 2.72 /name=&quot;Launchpad - N/A&quot; /note=19 /type=hardkey /enabled=on /keycode=&quot;None&quot; /info=&quot;Made by Macro&quot;</text>
+		</Macroline>
+		<Macroline index="74">
+			<text>SaveShow</text>
+		</Macroline>
+	</Macro>
+</MA>
